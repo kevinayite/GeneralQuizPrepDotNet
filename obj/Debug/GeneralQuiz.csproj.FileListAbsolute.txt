@@ -1,0 +1,17 @@
+D:\Dot net\Projects\GeneralQuiz\bin\Debug\GeneralQuiz.exe.config
+D:\Dot net\Projects\GeneralQuiz\bin\Debug\GeneralQuiz.exe
+D:\Dot net\Projects\GeneralQuiz\bin\Debug\GeneralQuiz.pdb
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.csproj.AssemblyReference.cache
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.Form1.resources
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.Login.resources
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.Properties.Resources.resources
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.csproj.GenerateResource.cache
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.csproj.CoreCompileInputs.cache
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.exe
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.pdb
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.Manager.resources
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQuiz.Student.resources
+D:\Dot net\Projects\GeneralQuiz\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dot net\Projects\GeneralQuiz\bin\Debug\itextsharp.dll
+D:\Dot net\Projects\GeneralQuiz\bin\Debug\itextsharp.xml
+D:\Dot net\Projects\GeneralQuiz\obj\Debug\GeneralQ.0D0935D8.Up2Date
